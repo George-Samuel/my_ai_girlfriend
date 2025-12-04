@@ -1,0 +1,14 @@
+*.7z
+*.zip
+.DS_Store
+Thumbs.db
+/build/
+.dart_tool/
+.packages
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+.vscode/
+*.iml
+*.log
